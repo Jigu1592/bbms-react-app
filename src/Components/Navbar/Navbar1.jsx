@@ -120,7 +120,7 @@ const Navbar = () => {
           </div>
           <ul className="md:flex hidden uppercase text-gray-100 items-center gap-5 font-[Georgia]">
             <li className="inline-block after:block after:w-0 after:h-1 after:bg-white after:transition-all after:duration-500 hover:after:w-full">
-              <Link to="/Home" className="py-7 px-3 inline-block">
+              <Link to="/bbms-react-app" className="py-7 px-3 inline-block">
                 Home
               </Link>
             </li>
